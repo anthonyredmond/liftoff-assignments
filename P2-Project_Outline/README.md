@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-kick rocks
+Dirty Dieshes and Empty Plates
 ### Features
 Username  and password sign up
 search for Recipes
