@@ -9,10 +9,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 kick rocks
 ### Features
-Include Features here
+Username  and password sign up
+search for Recipes
+and upload pictures of there attempted recipes
+plus contact me thru DM
 ### Technologies
-Include Technologies here
+Java
+Thymeleaf templates
+Spring Boot
 ### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
+Spring Boot
+##https://trello.com/b/W6H7pVWS/x1liftoff# Project Tracker
+
